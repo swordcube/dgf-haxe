@@ -8,6 +8,8 @@ flxsprite :x:
 
 dfgsprite ✔️
 
+no we are using `Sprite` not `DGFSprite` nerd
+
 we have no clue what we are doing
 
 no openfl??? :sad:
