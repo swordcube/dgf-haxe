@@ -6,3 +6,5 @@ FlxSprite gets zero bitches
 Sprite gets bitches
 
 uwu -swordcube
+
+;3 -leather128
