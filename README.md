@@ -10,5 +10,3 @@ uwu -swordcube
 ;3 -leather128
 
 HELP ME I AM ON THE BASEMENT :3 -raf 
-
-ok have fun neko maid nerd -leather128
