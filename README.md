@@ -1,15 +1,6 @@
-# dgf-haxe
+# DGF (Dynamic Game Framework)
 
-sdl2 haxe port irl
+Some fuckin 2d game framework made in Haxe by 5 dumbasses
 
-we are very serious in this haxelib
-
-flxsprite :x:
-
-sprite ✔️
-
-no we are using `Sprite` not `Sprite` nerd
-
-we have no clue what we are doing
-
-no openfl??? :sad:
+FlxSprite gets zero bitches
+Sprite gets bitches
