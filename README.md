@@ -6,7 +6,7 @@ we are very serious in this haxelib
 
 flxsprite :x:
 
-sprite yes
+dfgsprite ✔️
 
 we have no clue what we are doing
 
