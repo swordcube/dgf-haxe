@@ -6,9 +6,9 @@ we are very serious in this haxelib
 
 flxsprite :x:
 
-dfgsprite ✔️
+sprite ✔️
 
-no we are using `Sprite` not `DGFSprite` nerd
+no we are using `Sprite` not `Sprite` nerd
 
 we have no clue what we are doing
 
